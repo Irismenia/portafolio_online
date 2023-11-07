@@ -153,6 +153,11 @@ header button{
     font-family: 'Oswald';
     transition: .3s;
 }
+.abt{
+    text-transform: uppercase;
+    font-family: 'Oswald';
+}
+
 .btn-primary:hover{
     background-color: #000;
 }
